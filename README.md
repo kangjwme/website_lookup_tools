@@ -1,5 +1,5 @@
 # 網站資訊查詢
-使用 Python flask X requests 做出來的小網站，可以利用本機端指令 whois、curl 跟 nslookup 查詢網站 Response Header、WHOIS 跟 DNS lookup
+使用 Python flask X subprocess 做出來的小網站，可以利用本機端指令 whois、curl 跟 nslookup 查詢網站 Response Header、WHOIS 跟 DNS lookup
 
 ## 程式預覽
 <img width="1362" alt="image" src="https://github.com/kangjwme/website_lookup_tools/assets/71870130/bae42141-ef90-4900-89db-9c4b64ca0592">
